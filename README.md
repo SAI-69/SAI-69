@@ -1,9 +1,11 @@
-<h1 align="center">I am Sai Prasanth</h1>
-<h3 align="center">💻 "Teaching machines to learn, and myself never to stop."</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
+
+<h1 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FFFFFF&width=435&lines=Hello%2C+I+am+Sai+Prasanth)](https://git.io/typing-svg)</h1>
+<h4 align="center">💻 "Teaching machines to learn, and myself never to stop."</h4>
 
 ---
 ### 👨‍💻 About Me  
-
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTlodDdweGw0Nm4xOGNiaWszYmNtYXhiZ2NwbTFzZHEybDVnNnR6MyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ws6T5PN7wHv3cY8xy8/giphy.gif" width="150px"align='right'/>
 - 🔭 Currently exploring the intersection of **Machine Learning and Full Stack Development**  
 - 🌱 A lifelong learner who sometimes gets stuck in **tutorial hell**, but always finds a way out  
 - ⚡ I love building **end-to-end solutions** — from data pipelines and ML models to full stack web apps  
@@ -11,6 +13,7 @@
 - ☕ Powered by **curiosity, caffeine, and code**  
 - 👯 Open to collaborations on **ML projects, Flask apps, and anything data-driven**  
 ---
+
 <h2 >💻 Tech Stack:</h2>
 <p align="left">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/><img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black"/>
@@ -27,3 +30,6 @@
 <p align="left">
   <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/><img src="https://img.shields.io/badge/SQLAlchemy-%23D71F00.svg?style=for-the-badge&logo=sqlalchemy&logoColor=white"/><img src="https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/>
 </p>
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+
