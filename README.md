@@ -14,8 +14,8 @@
 ---
 
 <h2 >💻 Tech Stack:</h2>
-<!--<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTlodDdweGw0Nm4xOGNiaWszYmNtYXhiZ2NwbTFzZHEybDVnNnR6MyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ws6T5PN7wHv3cY8xy8/giphy.gif" width="1500px"align=''/>-->
-<img src="https://media1.tenor.com/m/QmVTfQw3pjYAAAAd/coding-scaler.gif" width="1500px" height='500px'/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTlodDdweGw0Nm4xOGNiaWszYmNtYXhiZ2NwbTFzZHEybDVnNnR6MyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ws6T5PN7wHv3cY8xy8/giphy.gif" width="1500px"align=''/>
+
 <p align="left">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/><img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
